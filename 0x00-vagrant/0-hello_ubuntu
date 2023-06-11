@@ -1,1 +1,2 @@
-When we use command 'uname' without any options,it just prints the core operating system name
+$ uname
+Linux
